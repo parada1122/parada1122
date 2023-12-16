@@ -11,6 +11,7 @@ Here are some ideas you can further customize:
 - 🤔 Need help with ... I need assistance in adding a search feature to my app.
 - 📫 How to reach me: ... You can contact me via email at parada.ye@ku.th.
 
+
 ---🍨 Additional Questions 🍨 ---
 1. 📚 **Education:** I am currently studying at Kasetsart University.
 2. 🌍 **Cultural Influences:** Does travel or being in a specific location influence your thinking?
